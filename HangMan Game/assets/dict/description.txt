@@ -1,0 +1,1 @@
+All words are used from 'dict'
