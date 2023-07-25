@@ -1,1 +1,1 @@
-All words are used from 'dict'
+All words used are present in 'dict'.
