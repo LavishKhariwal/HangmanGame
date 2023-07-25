@@ -1,1 +1,1 @@
-All sprites used are present in 'sprites'
+All sprites used are present in 'sprites'.
