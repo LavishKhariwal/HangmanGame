@@ -1,0 +1,10 @@
+Hangman Game Rules:
+
+1. The computer will choose a random word, and you have to guess it.
+2. You can guess one letter at a time.
+3. You have a limited number of attempts to guess the word.
+4. Each incorrect guess will add a part to the hangman drawing.
+5. The game ends when you guess the word correctly or when the hangman drawing is completed.
+6. The hangman drawing has 6 parts, so you have 6 attempts to guess the word.
+
+Good luck and have fun playing Hangman!
